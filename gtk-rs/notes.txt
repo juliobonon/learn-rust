@@ -1,0 +1,4 @@
+ = note: /usr/bin/ld: /home/julio/projects/coding/rustarm/gtk-rs/target/armv7-unknown-linux-gnueabihf/release/deps/gtk_rs-50fdbeed282b5466.gtk_rs.doc2af7z-cgu.0.rcgu.o: relocations in generic ELF (EM: 40)
+          /usr/bin/ld: /home/julio/projects/coding/rustarm/gtk-rs/target/armv7-unknown-linux-gnueabihf/release/deps/gtk_rs-50fdbeed282b5466.gtk_rs.doc2af7z-cgu.0.rcgu.o: relocations in generic ELF (EM: 40)
+          /usr/bin/ld: /home/julio/projects/coding/rustarm/gtk-rs/target/armv7-unknown-linux-gnueabihf/release/deps/gtk_rs-50fdbeed282b5466.gtk_rs.doc2af7z-cgu.0.rcgu.o: error adding symbols: file in wrong format
+          collect2: error: ld returned 1 exit status
