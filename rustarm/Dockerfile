@@ -5,6 +5,8 @@ ARG PKG_ARCH=armhf
 # For arm64 use:
 # ARG PKG_ARCH=aarch64
 ARG TARGET_IMAGE=arm32v7-debian-base
+# For arm64 use:
+# ARG PKG_ARCH=arm64v8-debian-base
 FROM rustembedded/cross:${IMAGE_ARCH} as build
 
 ARG PKG_ARCH
