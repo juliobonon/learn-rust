@@ -22,7 +22,7 @@ COPY gtk-rs-app/ .
 RUN cargo build --target=armv7-unknown-linux-gnueabihf --release
 RUN ls /target/armv7-unknown-linux-gnueabihf/release/
 
-FROM torizon/arm32v7-debian-base
+FROM torizon/arm32v7-debian-wayland-base
 
 RUN apt-get update && apt-get install && \
     apt-get install libgtk-3-dev
