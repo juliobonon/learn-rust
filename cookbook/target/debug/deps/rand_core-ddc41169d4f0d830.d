@@ -1,0 +1,12 @@
+/home/juliobonon/projects/coding/learn-rust/cookbook/target/debug/deps/rand_core-ddc41169d4f0d830.rmeta: /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/juliobonon/projects/coding/learn-rust/cookbook/target/debug/deps/librand_core-ddc41169d4f0d830.rlib: /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/juliobonon/projects/coding/learn-rust/cookbook/target/debug/deps/rand_core-ddc41169d4f0d830.d: /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs:
+/home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs:
+/home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs:
+/home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs:
+/home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs:
+/home/juliobonon/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs:
